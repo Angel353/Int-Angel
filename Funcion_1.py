@@ -4,3 +4,10 @@ a = 45
 b = 56
 
 print(a + b)
+
+# Crear las funciones necesarias para el Frontend
+
+def imprimir():
+    print("Esta es la rama para desarrollar el FrontEnd")
+
+imprimir()
